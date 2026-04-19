@@ -57,6 +57,8 @@ This project demonstrates that machine learning models, especially ensemble tech
 
 👨‍💻 Author
 Your Name : Jagadeesh.M
+## ⚠ Disclaimer
+This project is developed for educational and academic purposes only. The predictions and results are based on the given dataset and machine learning models, and may not reflect real-world scenarios accurately. This project should not be used for critical decision-making.
 
 ## ⚠ Disclaimer
 This project is developed for educational and academic purposes only. The predictions and results are based on the given dataset and machine learning models, and may not reflect real-world scenarios accurately. This project should not be used for critical decision-making.
